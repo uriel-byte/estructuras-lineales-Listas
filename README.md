@@ -5,3 +5,5 @@ ejemplo de aplicación con estructuras lineales.
 consiste en construir una lista cuyos elementos, llamados nodos, se componen de dos parte (campos): la primera parte contiene la información y es, por consiguiente, un valor de un tipo genérico (denominado Dato, TipoElemento, Info, etc.), y la segunda parte es un enlace que apunta al siguiente nodo de la lista.**
 
  + Crear una lista que almacene "n" números enteros  y calcular el menor y mayor  de ellos.
+ 
+ 
