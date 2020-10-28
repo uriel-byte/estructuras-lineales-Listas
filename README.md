@@ -11,7 +11,7 @@ consiste en construir una lista cuyos elementos, llamados nodos, se componen de 
 ![Captura de pantalla (374) png](https://user-images.githubusercontent.com/71051834/97501338-b4f7d000-1936-11eb-920b-62b0341e7def.jpg)
 
 
-aqui estan algumas capturas de pantalla mostrando que el programa si funciona.
+aqui estan algunas capturas de pantalla mostrando que el programa si funciona.
 
 ![Captura de pantalla (375) png](https://user-images.githubusercontent.com/71051834/97503599-f25e5c80-193a-11eb-980e-917306bae564.jpg)
 
