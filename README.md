@@ -6,6 +6,8 @@ consiste en construir una lista cuyos elementos, llamados nodos, se componen de 
 
  + Crear una lista que almacene "n" números enteros  y calcular el menor y mayor  de ellos.
  
+ para la realizacion del codigo empleammos varia funciones que nos ayudaron con el proceso para llevar acabo el programas, cada una de esta hizo su parte.
+ 
  esta es la primera parte. 
 
 ![Captura de pantalla (373) png](https://user-images.githubusercontent.com/71051834/97501311-add0c200-1936-11eb-81ca-414e1f671914.jpg)
